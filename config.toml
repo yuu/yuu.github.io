@@ -1,0 +1,16 @@
+baseURL = "https://yuu.github.io/"
+languageCode = "ja-jp"
+theme = "github-style"
+title = "yuu's portfolio"
+copyright = "© 2020 yuu. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+    author = "yuu"
+    description = "my portfolio"
+    url = "https://yuu.github.io"
+    github = "yuu"
+    twitter = "yuuxzy_"
+
+# https://budougumi0617.github.io/2020/03/10/hugo-render-raw-html/
+[markup.goldmark.renderer]
+    unsafe = true
