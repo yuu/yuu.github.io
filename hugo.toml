@@ -1,4 +1,14 @@
 baseURL = 'https://yuuxzy.io/'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = "yuu stdio"
 theme = 'github-style'
+copyright = "© 2020 yuu. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+author = "yuu"
+avatar = "/images/avatar.png"
+url = "https://yuu.github.io/"
+description = "yuu stdio"
+headerIcon = "/images/avatar.png"
+github = "yuu"
+twitter = "yuuxzy_"
