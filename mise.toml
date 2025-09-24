@@ -1,0 +1,5 @@
+[tasks."hugo:dev"]
+run = "hugo server"
+
+[tasks."hugo:new"]
+run = "hugo new"
